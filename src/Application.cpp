@@ -1,6 +1,6 @@
 #include "Application.h"
 
-#include "debug/Log.h"
+#include "logging/Log.h"
 
 #include <glad/glad.h>
 #include <sstream>
